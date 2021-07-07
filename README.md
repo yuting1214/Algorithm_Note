@@ -15,7 +15,7 @@
 </p>
 
 
-## Table of contents
+## Data structure
 
 - [Quick start](#quick-start)
 - [Status](#status)
@@ -27,13 +27,13 @@
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+## Algorithm
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Sorting
+- Searching
+- Divide and Conquer
+- Greedy Algorithms
+- Dynamic programming
 
 ## Status
 
@@ -53,28 +53,6 @@ folder1/
         ├── file3
         └── file4
 ```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-## Creators
-
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
-
-## Thanks
-
-Some Text
 
 ## Copyright and license
 
