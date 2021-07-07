@@ -6,7 +6,7 @@
   <h3 align="center">Logo</h3>
 
   <p align="center">
-    Short description
+    Note for Data structure and Algorithm
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
@@ -14,30 +14,29 @@
   </p>
 </p>
 
+## Math for analysis
 
 ## Data structure
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- Array
+- Linked List
+- Stack
+- Queue
+- Hash
+- Recursion
+- Tree
+- Graph
 
 
 ## Algorithm
 
 - Sorting
+    - Insertion Sort
+    - Merge Sort
 - Searching
 - Divide and Conquer
 - Greedy Algorithms
 - Dynamic programming
-
-## Status
-
-Here goes all the budgets
 
 ## What's included
 
